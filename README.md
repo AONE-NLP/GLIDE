@@ -361,35 +361,4 @@ Main `preprocess.py` arguments:
 
 If this repository is useful for your research, please cite our GLIDE paper:
 
-```bibtex
-@inproceedings{zhou2026glide,
-  title = {GLIDE: Graph-guided Leap Inference for Diffusion Estimation of Spatio-Temporal Point Processes},
-  author = {Zhou, Guanyu and Liu, Yao and Gan, Yanglei and Cai, Yuxiang and He, Peng and Lin, Run and Liu, Yuxiang and Liu, Qiao},
-  booktitle = {Proceedings of PKDD 2026},
-  year = {2026}
-}
-```
 
-You may also cite the arXiv version:
-
-```bibtex
-@article{zhou2026glide_arxiv,
-  title = {GLIDE: Graph-guided Leap Inference for Diffusion Estimation of Spatio-Temporal Point Processes},
-  author = {Zhou, Guanyu and Liu, Yao and Gan, Yanglei and Cai, Yuxiang and He, Peng and Lin, Run and Liu, Yuxiang and Liu, Qiao},
-  journal = {arXiv preprint arXiv:2606.01273},
-  year = {2026}
-}
-```
-
-This implementation builds on the original DSTPP repository. Please also cite
-DSTPP when appropriate:
-
-```bibtex
-@inproceedings{yuan2023DSTPP,
-  author = {Yuan, Yuan and Ding, Jingtao and Shao, Chenyang and Jin, Depeng and Li, Yong},
-  title = {Spatio-Temporal Diffusion Point Processes},
-  year = {2023},
-  booktitle = {Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
-  pages = {3173--3184},
-}
-```
